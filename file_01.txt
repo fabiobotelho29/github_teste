@@ -1,1 +1,4 @@
 Alterando arquivo
+
+Comando GIT para resolver pull
+git pull origin master --allow-unrelated-histories
