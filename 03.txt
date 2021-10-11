@@ -8,4 +8,8 @@ atualização do user_02
 
 arquivo 03
 
+
 atualização na master
+
+atualização feita no user 3
+
