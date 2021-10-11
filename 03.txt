@@ -7,3 +7,5 @@ Atualização da 01
 atualização do user_02
 
 arquivo 03
+
+atualização feita no user 3
